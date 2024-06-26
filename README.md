@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Ruby**
 
-- 🤝 I’m looking for help with **R for data**
+- 🤝 I’m looking for help with **Python and Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hugomartinsg](https://github.com/hugomartinsg)
 
